@@ -2,6 +2,7 @@
 """
 Created on Wed Feb  3 15:28:51 2021
 Implementation of linked list in python
+
 @author: Bilgin
 """
 
